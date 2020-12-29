@@ -42,3 +42,4 @@ while True:
 
     # set the second count as initial state for the next loop
     xr1 = xr2
+
